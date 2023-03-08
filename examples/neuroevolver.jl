@@ -13,6 +13,8 @@ using ProgressLogging
 using BenchmarkTools
 using InteractiveUtils
 
+using GeneticFlux
+
 ## prepare MNIST data
 
 @with_kw mutable struct Args
