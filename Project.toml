@@ -1,0 +1,4 @@
+name = "GeneticFlux"
+uuid = "7136b54b-ff59-42e6-8c0a-bf399da180f0"
+authors = ["Garrett Kinman <garrettkinman@gmail.com>"]
+version = "0.1.0"
